@@ -105,7 +105,7 @@ clairvoyant_disaggregated_rewards = [optimal_disaggregated_super_arm_value for _
 
 
 
-
+exit()
 
 ###########################
 ## EXPERIMENT
